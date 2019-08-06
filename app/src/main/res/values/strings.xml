@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project Whistle</string>
+    <string name="preference_file_key">PREFERENCES</string>
+
+    <string name="help_en">Help</string>
+    <string name="help_hin">सहायता</string>
+
+    <string name="first_time">true</string>
+    <string name="title_activity_settings">Settings</string>
+
+</resources>

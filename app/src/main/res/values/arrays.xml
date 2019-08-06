@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_list_preference_titles">
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Bengali</item>
+        <item>Kannada</item>
+        <item>Malayalam</item>
+        <item>Tamil</item>
+        <item>Telegu</item>
+    </string-array>
+    <string-array name="settings_list_preference_values">
+        <item>Help</item>
+        <item>सहायता</item>
+        <item>সাহায্য</item>
+        <item>ಸಹಾಯ</item>
+        <item>സഹായിക്കൂ</item>
+        <item>உதவி</item>
+        <item>సహాయం</item>
+    </string-array>
+</resources>
